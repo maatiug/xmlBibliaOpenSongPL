@@ -1,527 +1,527 @@
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Numbers'}  |  {'n': '16'}  |  50
-    PBW |  {'n': 'Ks. Liczb'}  |  {'n': '16'}  |  35
+    --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Numbers'}  |  {'n': '16'}  |  50
+>>  PBW |  {'n': 'Ks. Liczb'}  |  {'n': '16'}  |  35
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Numbers'}  |  {'n': '17'}  |  13
-    PBW |  {'n': 'Ks. Liczb'}  |  {'n': '17'}  |  28
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Numbers'}  |  {'n': '17'}  |  13
+>>  PBW |  {'n': 'Ks. Liczb'}  |  {'n': '17'}  |  28
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Numbers'}  |  {'n': '29'}  |  40
-    PBW |  {'n': 'Ks. Liczb'}  |  {'n': '29'}  |  39
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Numbers'}  |  {'n': '29'}  |  40
+>>  PBW |  {'n': 'Ks. Liczb'}  |  {'n': '29'}  |  39
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Numbers'}  |  {'n': '30'}  |  16
-    PBW |  {'n': 'Ks. Liczb'}  |  {'n': '30'}  |  17
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Numbers'}  |  {'n': '30'}  |  16
+>>  PBW |  {'n': 'Ks. Liczb'}  |  {'n': '30'}  |  17
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '12'}  |  32
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '12'}  |  31
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '12'}  |  32
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '12'}  |  31
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW 
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '13'}  |  18
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '13'}  |  19
+>>  --- Zamieniono, ponieważ:    KJV < PBW 
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '13'}  |  18
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '13'}  |  19
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '22'}  |  30
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '22'}  |  29
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '22'}  |  30
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '22'}  |  29
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '23'}  |  25
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '23'}  |  26
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '23'}  |  25
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '23'}  |  26
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '28'}  |  68
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '28'}  |  69
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '28'}  |  68
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '28'}  |  69
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Deuteronomy'}  |  {'n': '29'}  |  29
-    PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '29'}  |  28
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Deuteronomy'}  |  {'n': '29'}  |  29
+>>  PBW |  {'n': 'Ks. Powt. Prawa'}  |  {'n': '29'}  |  28
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '1 Samuel'}  |  {'n': '21'}  |  15
-    PBW |  {'n': '1 Ks. Samuela'}  |  {'n': '21'}  |  16
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '1 Samuel'}  |  {'n': '21'}  |  15
+>>  PBW |  {'n': '1 Ks. Samuela'}  |  {'n': '21'}  |  16
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '1 Samuel'}  |  {'n': '23'}  |  29
 PBW |  {'n': '1 Ks. Samuela'}  |  {'n': '23'}  |  28
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '1 Samuel'}  |  {'n': '24'}  |  22
-    PBW |  {'n': '1 Ks. Samuela'}  |  {'n': '24'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '1 Samuel'}  |  {'n': '24'}  |  22
+>>  PBW |  {'n': '1 Ks. Samuela'}  |  {'n': '24'}  |  23
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Samuel'}  |  {'n': '8'}  |  18
 PBW |  {'n': '2 Ks. Samuela'}  |  {'n': '8'}  |  17
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Samuel'}  |  {'n': '13'}  |  39
 PBW |  {'n': '2 Ks. Samuela'}  |  {'n': '13'}  |  38
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Samuel'}  |  {'n': '17'}  |  29
 PBW |  {'n': '2 Ks. Samuela'}  |  {'n': '17'}  |  28
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Samuel'}  |  {'n': '21'}  |  22
 PBW |  {'n': '2 Ks. Samuela'}  |  {'n': '21'}  |  21
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '1 Kings'}  |  {'n': '22'}  |  53
-    PBW |  {'n': '1 Ks. Kr�lewska'}  |  {'n': '22'}  |  54
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '1 Kings'}  |  {'n': '22'}  |  53
+>>  PBW |  {'n': '1 Ks. Kr�lewska'}  |  {'n': '22'}  |  54
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Kings'}  |  {'n': '11'}  |  21
 PBW |  {'n': '2 Ks. Kr�lewska'}  |  {'n': '11'}  |  20
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '2 Kings'}  |  {'n': '12'}  |  21
-    PBW |  {'n': '2 Ks. Kr�lewska'}  |  {'n': '12'}  |  22
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '2 Kings'}  |  {'n': '12'}  |  21
+>>  PBW |  {'n': '2 Ks. Kr�lewska'}  |  {'n': '12'}  |  22
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '1 Chronicles'}  |  {'n': '5'}  |  26
-    PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '5'}  |  41
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '1 Chronicles'}  |  {'n': '5'}  |  26
+>>  PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '5'}  |  41
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': '1 Chronicles'}  |  {'n': '6'}  |  81
-    PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '6'}  |  66
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': '1 Chronicles'}  |  {'n': '6'}  |  81
+>>  PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '6'}  |  66
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '1 Chronicles'}  |  {'n': '11'}  |  47
 PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '11'}  |  46
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '1 Chronicles'}  |  {'n': '12'}  |  40
-    PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '12'}  |  41
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '1 Chronicles'}  |  {'n': '12'}  |  40
+>>  PBW |  {'n': '1 Ks. Kronik'}  |  {'n': '12'}  |  41
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '2 Chronicles'}  |  {'n': '1'}  |  17
-    PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '1'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '2 Chronicles'}  |  {'n': '1'}  |  17
+>>  PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '1'}  |  18
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Chronicles'}  |  {'n': '2'}  |  18
 PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '2'}  |  17
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '2 Chronicles'}  |  {'n': '13'}  |  22
-    PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '13'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '2 Chronicles'}  |  {'n': '13'}  |  22
+>>  PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '13'}  |  23
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': '2 Chronicles'}  |  {'n': '14'}  |  15
 PBW |  {'n': '2 Ks. Kronik'}  |  {'n': '14'}  |  14
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Nehemiah'}  |  {'n': '7'}  |  73
 PBW |  {'n': 'Ks. Nehemiasza'}  |  {'n': '7'}  |  72
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Nehemiah'}  |  {'n': '9'}  |  38
 PBW |  {'n': 'Ks. Nehemiasza'}  |  {'n': '9'}  |  37
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Nehemiah'}  |  {'n': '10'}  |  39
-    PBW |  {'n': 'Ks. Nehemiasza'}  |  {'n': '10'}  |  40
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Nehemiah'}  |  {'n': '10'}  |  39
+>>  PBW |  {'n': 'Ks. Nehemiasza'}  |  {'n': '10'}  |  40
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Job'}  |  {'n': '40'}  |  24
-    PBW |  {'n': 'Ks. Hioba'}  |  {'n': '40'}  |  32
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Job'}  |  {'n': '40'}  |  24
+>>  PBW |  {'n': 'Ks. Hioba'}  |  {'n': '40'}  |  32
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Job'}  |  {'n': '41'}  |  34
-    PBW |  {'n': 'Ks. Hioba'}  |  {'n': '41'}  |  26
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Job'}  |  {'n': '41'}  |  34
+>>  PBW |  {'n': 'Ks. Hioba'}  |  {'n': '41'}  |  26
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '3'}  |  8
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '3'}  |  9
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '3'}  |  8
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '3'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '4'}  |  8
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '4'}  |  9
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '4'}  |  8
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '4'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '5'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '5'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '5'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '5'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '6'}  |  10
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '6'}  |  11
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '6'}  |  10
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '6'}  |  11
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '7'}  |  17
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '7'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '7'}  |  17
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '7'}  |  18
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '8'}  |  9
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '8'}  |  10
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '8'}  |  9
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '8'}  |  10
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '9'}  |  20
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '9'}  |  21
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '9'}  |  20
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '9'}  |  21
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '12'}  |  8
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '12'}  |  9
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '12'}  |  8
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '12'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '18'}  |  50
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '18'}  |  51
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '18'}  |  50
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '18'}  |  51
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '19'}  |  14
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '19'}  |  15
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '19'}  |  14
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '19'}  |  15
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '20'}  |  9
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '20'}  |  10
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '20'}  |  9
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '20'}  |  10
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '21'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '21'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '21'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '21'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '22'}  |  31
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '22'}  |  32
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '22'}  |  31
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '22'}  |  32
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '30'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '30'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '30'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '30'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '31'}  |  24
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '31'}  |  25
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '31'}  |  24
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '31'}  |  25
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '34'}  |  22
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '34'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '34'}  |  22
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '34'}  |  23
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '36'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '36'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '36'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '36'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '38'}  |  22
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '38'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '38'}  |  22
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '38'}  |  23
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '39'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '39'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '39'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '39'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '40'}  |  17
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '40'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '40'}  |  17
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '40'}  |  18
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '41'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '41'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '41'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '41'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '42'}  |  11
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '42'}  |  12
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '42'}  |  11
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '42'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '44'}  |  26
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '44'}  |  27
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '44'}  |  26
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '44'}  |  27
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '45'}  |  17
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '45'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '45'}  |  17
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '45'}  |  18
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '46'}  |  11
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '46'}  |  12
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '46'}  |  11
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '46'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '47'}  |  9
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '47'}  |  10
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '47'}  |  9
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '47'}  |  10
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '48'}  |  14
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '48'}  |  15
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '48'}  |  14
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '48'}  |  15
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '49'}  |  20
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '49'}  |  21
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '49'}  |  20
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '49'}  |  21
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '51'}  |  19
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '51'}  |  21
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '51'}  |  19
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '51'}  |  21
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '52'}  |  9
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '52'}  |  11
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '52'}  |  9
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '52'}  |  11
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '53'}  |  6
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '53'}  |  7
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '53'}  |  6
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '53'}  |  7
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '54'}  |  7
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '54'}  |  9
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '54'}  |  7
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '54'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '55'}  |  23
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '55'}  |  24
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '55'}  |  23
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '55'}  |  24
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '56'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '56'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '56'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '56'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '57'}  |  11
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '57'}  |  12
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '57'}  |  11
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '57'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '58'}  |  11
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '58'}  |  12
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '58'}  |  11
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '58'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '59'}  |  17
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '59'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '59'}  |  17
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '59'}  |  18
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '60'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '60'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '60'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '60'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '61'}  |  8
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '61'}  |  9
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '61'}  |  8
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '61'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '62'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '62'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '62'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '62'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '63'}  |  11
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '63'}  |  12
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '63'}  |  11
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '63'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '64'}  |  10
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '64'}  |  11
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '64'}  |  10
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '64'}  |  11
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '65'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '65'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '65'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '65'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '67'}  |  7
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '67'}  |  8
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '67'}  |  7
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '67'}  |  8
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '68'}  |  35
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '68'}  |  36
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '68'}  |  35
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '68'}  |  36
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '69'}  |  36
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '69'}  |  37
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '69'}  |  36
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '69'}  |  37
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '70'}  |  5
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '70'}  |  6
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '70'}  |  5
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '70'}  |  6
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '75'}  |  10
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '75'}  |  11
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '75'}  |  10
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '75'}  |  11
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW 
-    KJV |  {'n': 'Psalms'}  |  {'n': '76'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '76'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW 
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '76'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '76'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW 
-    KJV |  {'n': 'Psalms'}  |  {'n': '77'}  |  20
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '77'}  |  21
+>>  --- Zamieniono, ponieważ:    KJV < PBW 
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '77'}  |  20
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '77'}  |  21
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW 
-    KJV |  {'n': 'Psalms'}  |  {'n': '80'}  |  19
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '80'}  |  20
+>>  --- Zamieniono, ponieważ:    KJV < PBW 
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '80'}  |  19
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '80'}  |  20
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW 
-    KJV |  {'n': 'Psalms'}  |  {'n': '81'}  |  16
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '81'}  |  17
+>>  --- Zamieniono, ponieważ:    KJV < PBW 
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '81'}  |  16
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '81'}  |  17
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '83'}  |  18
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '83'}  |  19
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '83'}  |  18
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '83'}  |  19
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '84'}  |  12
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '84'}  |  13
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '84'}  |  12
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '84'}  |  13
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '85'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '85'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '85'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '85'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '88'}  |  18
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '88'}  |  19
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '88'}  |  18
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '88'}  |  19
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '89'}  |  52
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '89'}  |  53
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '89'}  |  52
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '89'}  |  53
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '92'}  |  15
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '92'}  |  16
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '92'}  |  15
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '92'}  |  16
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '102'}  |  28
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '102'}  |  29
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '102'}  |  28
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '102'}  |  29
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '108'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '108'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '108'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '108'}  |  14
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Psalms'}  |  {'n': '119'}  |  176
 PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '119'}  |  99
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '140'}  |  13
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '140'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '140'}  |  13
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '140'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Psalms'}  |  {'n': '142'}  |  7
-    PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '142'}  |  8
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Psalms'}  |  {'n': '142'}  |  7
+>>  PBW |  {'n': 'Ks. Psalm�w'}  |  {'n': '142'}  |  8
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Proverbs'}  |  {'n': '8'}  |  36
 PBW |  {'n': 'Przyp. Salomona'}  |  {'n': '8'}  |  35
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Ecclesiastes'}  |  {'n': '4'}  |  16
-    PBW |  {'n': 'Kazn. Salomona'}  |  {'n': '4'}  |  17
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Ecclesiastes'}  |  {'n': '4'}  |  16
+>>  PBW |  {'n': 'Kazn. Salomona'}  |  {'n': '4'}  |  17
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Ecclesiastes'}  |  {'n': '5'}  |  20
 PBW |  {'n': 'Kazn. Salomona'}  |  {'n': '5'}  |  19
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Ecclesiastes'}  |  {'n': '8'}  |  17
-    PBW |  {'n': 'Kazn. Salomona'}  |  {'n': '8'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Ecclesiastes'}  |  {'n': '8'}  |  17
+>>  PBW |  {'n': 'Kazn. Salomona'}  |  {'n': '8'}  |  18
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Song of Solomon'}  |  {'n': '6'}  |  13
 PBW |  {'n': 'Pie�� nad pie�niami'}  |  {'n': '6'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Song of Solomon'}  |  {'n': '7'}  |  13
-    PBW |  {'n': 'Pie�� nad pie�niami'}  |  {'n': '7'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Song of Solomon'}  |  {'n': '7'}  |  13
+>>  PBW |  {'n': 'Pie�� nad pie�niami'}  |  {'n': '7'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Isaiah'}  |  {'n': '8'}  |  22
-    PBW |  {'n': 'Ks. Izajasza'}  |  {'n': '8'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Isaiah'}  |  {'n': '8'}  |  22
+>>  PBW |  {'n': 'Ks. Izajasza'}  |  {'n': '8'}  |  23
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Isaiah'}  |  {'n': '9'}  |  21
 PBW |  {'n': 'Ks. Izajasza'}  |  {'n': '9'}  |  20
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Jeremiah'}  |  {'n': '8'}  |  22
-    PBW |  {'n': 'Ks. Jeremiasza'}  |  {'n': '8'}  |  23
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Jeremiah'}  |  {'n': '8'}  |  22
+>>  PBW |  {'n': 'Ks. Jeremiasza'}  |  {'n': '8'}  |  23
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Jeremiah'}  |  {'n': '9'}  |  26
 PBW |  {'n': 'Ks. Jeremiasza'}  |  {'n': '9'}  |  25
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Ezekiel'}  |  {'n': '20'}  |  49
-    PBW |  {'n': 'Ks. Ezechiela'}  |  {'n': '20'}  |  44
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Ezekiel'}  |  {'n': '20'}  |  49
+>>  PBW |  {'n': 'Ks. Ezechiela'}  |  {'n': '20'}  |  44
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Ezekiel'}  |  {'n': '21'}  |  32
-    PBW |  {'n': 'Ks. Ezechiela'}  |  {'n': '21'}  |  37
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Ezekiel'}  |  {'n': '21'}  |  32
+>>  PBW |  {'n': 'Ks. Ezechiela'}  |  {'n': '21'}  |  37
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Daniel'}  |  {'n': '3'}  |  30
-    PBW |  {'n': 'Ks. Daniela'}  |  {'n': '3'}  |  33
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Daniel'}  |  {'n': '3'}  |  30
+>>  PBW |  {'n': 'Ks. Daniela'}  |  {'n': '3'}  |  33
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Daniel'}  |  {'n': '4'}  |  37
-    PBW |  {'n': 'Ks. Daniela'}  |  {'n': '4'}  |  34
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Daniel'}  |  {'n': '4'}  |  37
+>>  PBW |  {'n': 'Ks. Daniela'}  |  {'n': '4'}  |  34
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Daniel'}  |  {'n': '5'}  |  31
 PBW |  {'n': 'Ks. Daniela'}  |  {'n': '5'}  |  30
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Daniel'}  |  {'n': '6'}  |  28
-    PBW |  {'n': 'Ks. Daniela'}  |  {'n': '6'}  |  29
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Daniel'}  |  {'n': '6'}  |  28
+>>  PBW |  {'n': 'Ks. Daniela'}  |  {'n': '6'}  |  29
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Hosea'}  |  {'n': '1'}  |  11
 PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '1'}  |  9
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Hosea'}  |  {'n': '2'}  |  23
-    PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '2'}  |  25
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Hosea'}  |  {'n': '2'}  |  23
+>>  PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '2'}  |  25
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Hosea'}  |  {'n': '11'}  |  12
 PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '11'}  |  11
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Hosea'}  |  {'n': '12'}  |  14
-    PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '12'}  |  15
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Hosea'}  |  {'n': '12'}  |  14
+>>  PBW |  {'n': 'Ks. Ozeasza'}  |  {'n': '12'}  |  15
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Joel'}  |  {'n': '2'}  |  32
-    PBW |  {'n': 'Ks. Joela'}  |  {'n': '2'}  |  27
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Joel'}  |  {'n': '2'}  |  32
+>>  PBW |  {'n': 'Ks. Joela'}  |  {'n': '2'}  |  27
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Joel'}  |  {'n': '3'}  |  21
-    PBW |  {'n': 'Ks. Joela'}  |  {'n': '3'}  |  26
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Joel'}  |  {'n': '3'}  |  21
+>>  PBW |  {'n': 'Ks. Joela'}  |  {'n': '3'}  |  26
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Jonah'}  |  {'n': '1'}  |  17
 PBW |  {'n': 'Ks. Jonasza'}  |  {'n': '1'}  |  16
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Micah'}  |  {'n': '4'}  |  13
-    PBW |  {'n': 'Ks. Micheasza'}  |  {'n': '4'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Micah'}  |  {'n': '4'}  |  13
+>>  PBW |  {'n': 'Ks. Micheasza'}  |  {'n': '4'}  |  14
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Micah'}  |  {'n': '5'}  |  15
 PBW |  {'n': 'Ks. Micheasza'}  |  {'n': '5'}  |  14
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Nahum'}  |  {'n': '1'}  |  15
 PBW |  {'n': 'Ks. Nahuma'}  |  {'n': '1'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Nahum'}  |  {'n': '2'}  |  13
-    PBW |  {'n': 'Ks. Nahuma'}  |  {'n': '2'}  |  14
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Nahum'}  |  {'n': '2'}  |  13
+>>  PBW |  {'n': 'Ks. Nahuma'}  |  {'n': '2'}  |  14
 
-    --- Rozna ilosc wersetow! ---    KJV > PBW
-    KJV |  {'n': 'Zechariah'}  |  {'n': '1'}  |  21
-    PBW |  {'n': 'Ks. Zachariasza'}  |  {'n': '1'}  |  17
+>>  --- Zamieniono, ponieważ:    KJV > PBW
+>>  KJV |  {'n': 'Zechariah'}  |  {'n': '1'}  |  21
+>>  PBW |  {'n': 'Ks. Zachariasza'}  |  {'n': '1'}  |  17
 
-    --- Rozna ilosc wersetow! ---    KJV < PBWgi
-    KJV |  {'n': 'Zechariah'}  |  {'n': '2'}  |  13
-    PBW |  {'n': 'Ks. Zachariasza'}  |  {'n': '2'}  |  17
+>>  --- Zamieniono, ponieważ:    KJV < PBWgi
+>>  KJV |  {'n': 'Zechariah'}  |  {'n': '2'}  |  13
+>>  PBW |  {'n': 'Ks. Zachariasza'}  |  {'n': '2'}  |  17
 
---- Rozna ilosc wersetow! ---    KJV > PBW
+>>  --- Brak zmian ---    KJV > PBW
 KJV |  {'n': 'Zechariah'}  |  {'n': '12'}  |  14
 PBW |  {'n': 'Ks. Zachariasza'}  |  {'n': '12'}  |  13
 
-    ------------Rozna ilosc rozdzialow!------------------
-    KJV |  {'n': 'Malachi'}  |  4
-    PBW |  {'n': 'Ks. Malachiasza'}  |  3
+>>  ------------Rozna ilosc rozdzialow!------------------
+>>  KJV |  {'n': 'Malachi'}  |  4
+>>  PBW |  {'n': 'Ks. Malachiasza'}  |  3
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': 'Acts'}  |  {'n': '19'}  |  41
 PBW |  {'n': 'Dzieje Apost.'}  |  {'n': '19'}  |  40
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': '2 Corinthians'}  |  {'n': '13'}  |  14
 PBW |  {'n': '2 Koryntian'}  |  {'n': '13'}  |  13
 
---- Rozna ilosc wersetow! ---    KJV > PBW 
+>>  --- Brak zmian ---    KJV > PBW 
 KJV |  {'n': '1 Thessalonians'}  |  {'n': '3'}  |  13
 PBW |  {'n': '1 Tesaloniczan'}  |  {'n': '3'}  |  12
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': '3 John'}  |  {'n': '1'}  |  14
-    PBW |  {'n': '3 Jana'}  |  {'n': '1'}  |  15
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': '3 John'}  |  {'n': '1'}  |  14
+>>  PBW |  {'n': '3 Jana'}  |  {'n': '1'}  |  15
 
-    --- Rozna ilosc wersetow! ---    KJV < PBW
-    KJV |  {'n': 'Revelation'}  |  {'n': '12'}  |  17
-    PBW |  {'n': 'Objawienie'}  |  {'n': '12'}  |  18
+>>  --- Zamieniono, ponieważ:    KJV < PBW
+>>  KJV |  {'n': 'Revelation'}  |  {'n': '12'}  |  17
+>>  PBW |  {'n': 'Objawienie'}  |  {'n': '12'}  |  18

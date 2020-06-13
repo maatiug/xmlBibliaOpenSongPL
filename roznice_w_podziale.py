@@ -1,14 +1,26 @@
+#################################################
+# Pozwala na znalezienie roznic w ilosci ksiag,
+# rozdzialow i wersetow.
+#
+# Napisano w Python3
+#
+# Autor: Górka Mateusz
+################################################
+
 from lxml import etree
 
+# Tutaj ustaw nazwy plików:
 plikA = "PBW"
 plikB = "KJV"
 
+# Wczytywanie XML
 xmlA_tree = etree.parse( plikA )
 xmlB_tree = etree.parse( plikB )
 
 xmlB = xmlB_tree.getroot()
 xmlA = xmlA_tree.getroot()
 
+# Porowynwanie plikow
 if len( xmlB ) == len( xmlA ):
 
     for b in range( 0, len(xmlB) ):
