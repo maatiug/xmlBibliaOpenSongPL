@@ -40,6 +40,20 @@ ___
     - Objawienie 12,17 i 18 <- połączone
 
 ___
+## Skrypty
+### roznice_w_podziale_py
+Program zwraca miejsca w których podział ksiąg, rozdziałów i wersetów różni się ilościowo.
+
+### polacz_pliki_py
+Program łączy dwa pliki Biblii ze sobą, poprzez połączenie wersetów.
+
+Pozwala to połączyć dwa różne tłumaczenia ze sobą.
+
+- W przypadku większej liczby wersetów jednego z tłumaczeń różnicę dodaje do ostatniego wersetu rozdziału, oraz zwraca ostrzeżenie.
+- W przypadku różnej liczby rozdziałów zwraca błąd i przerywa działanie.
+- W przypadku różnej liczby ksiąg zwraca błąd i przerywa działanie.
+
+___
 ## Planowane zmiany
 - Kolejne polskie przekłady
 

@@ -1,0 +1,8 @@
+# ignoruj:
+skopiuj.sh
+
+# Polaczone Biblie
+*_i_*
+
+# za wyjatkiem:
+!PBW_i_KJV

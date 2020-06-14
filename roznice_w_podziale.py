@@ -9,8 +9,10 @@
 
 from lxml import etree
 
-# Tutaj ustaw nazwy plików:
+# Nazwa pliku:
 plikA = "PBW"
+
+# Plik wzorcowy:
 plikB = "KJV"
 
 # Wczytywanie XML
